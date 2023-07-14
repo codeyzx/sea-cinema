@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590428330669",
+    "project_id": "seacinema-cfcb7",
+    "storage_bucket": "seacinema-cfcb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590428330669:android:3096f3cf52f7547a46c424",
+        "android_client_info": {
+          "package_name": "com.example.seacinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590428330669-pi8btnairfihql402f08uoe8bs5b6j2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAKXshZdMmOZpvQtpemboE_t-xxbL-r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590428330669-pi8btnairfihql402f08uoe8bs5b6j2o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590428330669-51a277a5qft1ac7r4v8rlmp1s9ho024c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seacinema"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
